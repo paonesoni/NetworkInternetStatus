@@ -1,6 +1,8 @@
 # NetworkStatus
 Check realtime internet network status
 
+[![](https://jitpack.io/v/paonesoni/NetworkInternetStatus.svg)](https://jitpack.io/#paonesoni/NetworkInternetStatus)
+
 
 Permission 
 ------
